@@ -3,7 +3,7 @@ import Season from "./Season";
 
 function SeasonsList () {
     return (
-        <div>
+        <div className="content">
             This contains each season!
             <Season />
         </div>

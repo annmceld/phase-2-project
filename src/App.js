@@ -1,5 +1,6 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
+import Header from "./Components/Header";
 import NavBar from "./Components/NavBar";
 import Home from "./Components/Home";
 import SeasonsList from "./Components/SeasonsList";
@@ -8,6 +9,7 @@ import FavoriteCities from "./Components/FavoriteCities";
 function App() {
   return (
     <div>
+      <Header />
       <NavBar />
       <Switch>
         <Route exact path="/SeasonsList">
