@@ -1,0 +1,389 @@
+{
+    "cities": [
+        {
+        "id": "1",
+        "name": "New York",
+        "holidays":[
+        {
+            "id": "1",
+            "holidayName": "New Years",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "2",
+            "holidayName": "Martin Luther King Jr. Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "3",
+            "holidayName": "St. Patrick's Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "4",
+            "holidayName": "Easter",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "5",
+            "holidayName": "Cinco De Mayo",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "6",
+            "holidayName": "Memorial Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "7",
+            "holidayName": "Independence Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "8",
+            "holidayName": "Labor Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "9",
+            "holidayName": "Halloween",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "10",
+            "holidayName": "Veterans Day",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "11",
+            "holidayName": "Thanksgiving",
+            "avgHotelPrice": "0",
+            "event": ""
+        },
+        {
+            "id": "12",
+            "holidayName": "Christmas",
+            "avgHotelPrice": "0",
+            "event": ""
+        }
+    ]},
+
+    {   "id": "2",
+        "name": "New Orleans",
+        "holidays":[
+            {
+                "id": "1",
+                "holidayName": "New Years",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "2",
+                "holidayName": "Martin Luther King Jr. Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "3",
+                "holidayName": "St. Patrick's Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "4",
+                "holidayName": "Easter",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "5",
+                "holidayName": "Cinco De Mayo",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "6",
+                "holidayName": "Memorial Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "7",
+                "holidayName": "Independence Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "8",
+                "holidayName": "Labor Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "9",
+                "holidayName": "Halloween",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "10",
+                "holidayName": "Veterans Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "11",
+                "holidayName": "Thanksgiving",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "12",
+                "holidayName": "Christmas",
+                "avgHotelPrice": "0",
+                "event": ""
+            }
+        ]},
+    {
+        "id": "3",
+        "name": "Los Angeles",
+        "holidays":[
+            {
+                "id": "1",
+                "holidayName": "New Years",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "2",
+                "holidayName": "Martin Luther King Jr. Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "3",
+                "holidayName": "St. Patrick's Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "4",
+                "holidayName": "Easter",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "5",
+                "holidayName": "Cinco De Mayo",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "6",
+                "holidayName": "Memorial Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "7",
+                "holidayName": "Independence Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "8",
+                "holidayName": "Labor Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "9",
+                "holidayName": "Halloween",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "10",
+                "holidayName": "Veterans Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "11",
+                "holidayName": "Thanksgiving",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "12",
+                "holidayName": "Christmas",
+                "avgHotelPrice": "0",
+                "event": ""
+            }
+        ]},
+    {
+        "id": "4",
+        "name": "Miami",
+        "holidays":[
+            {
+                "id": "1",
+                "holidayName": "New Years",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "2",
+                "holidayName": "Martin Luther King Jr. Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "3",
+                "holidayName": "St. Patrick's Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "4",
+                "holidayName": "Easter",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "5",
+                "holidayName": "Cinco De Mayo",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "6",
+                "holidayName": "Memorial Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "7",
+                "holidayName": "Independence Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "8",
+                "holidayName": "Labor Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "9",
+                "holidayName": "Halloween",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "10",
+                "holidayName": "Veterans Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "11",
+                "holidayName": "Thanksgiving",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "12",
+                "holidayName": "Christmas",
+                "avgHotelPrice": "0",
+                "event": ""
+            }
+        ]},
+    {
+        "id": "5",
+        "name": "Chicago",
+        "holidays":[
+            {
+                "id": "1",
+                "holidayName": "New Years",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "2",
+                "holidayName": "Martin Luther King Jr. Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "3",
+                "holidayName": "St. Patrick's Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "4",
+                "holidayName": "Easter",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "5",
+                "holidayName": "Cinco De Mayo",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "6",
+                "holidayName": "Memorial Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "7",
+                "holidayName": "Independence Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "8",
+                "holidayName": "Labor Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "9",
+                "holidayName": "Halloween",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "10",
+                "holidayName": "Veterans Day",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "11",
+                "holidayName": "Thanksgiving",
+                "avgHotelPrice": "0",
+                "event": ""
+            },
+            {
+                "id": "12",
+                "holidayName": "Christmas",
+                "avgHotelPrice": "0",
+                "event": ""
+            }
+        ]}
+    ]
+}    
