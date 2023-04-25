@@ -4,13 +4,40 @@ import Header from "./Components/Header";
 import NavBar from "./Components/NavBar";
 import Home from "./Components/Home";
 import CitiesList from "./Components/CitiesList";
-import FavoriteHolidays from "./Components/FavoriteHolidays";
+import Favorites from "./Components/Favorites";
+import { BrowserRouter } from "react-router-dom";
+
 
 function App() {
+  let component
+  switch (window.location.pathname) {
+    case "/":
+      component = <Home/>
+      break
+    case "/CitiesList":
+      component = <CitiesList/>
+      break
+    case "/Favorites":
+      component = <Favorites/>
+      break
+  }
   return (
-    <div>
-      <Header />
+    <>
       <NavBar />
+      <div className="container">
+      {component}
+      </div>
+      </>
+  )
+}
+      {/* <div clas */}
+
+
+
+
+
+
+      {/* <NavBar />
       <Switch>
         <Route exact path="/CitiesList">
           <CitiesList />
@@ -21,9 +48,8 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-      </Switch>
-    </div>
-  );
-}
+      </Switch> */}
+  //   </div>
+  // );
 
 export default App;

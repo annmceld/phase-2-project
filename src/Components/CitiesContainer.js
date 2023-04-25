@@ -1,6 +1,6 @@
 import React from "react";
 import CitiesList from "./CitiesList";
-import FavoriteHolidays from "./FavoriteHolidays";
+import Favorites from "./Favorites";
 import Search from "./Search";
 
 function CitiesContainer () {
@@ -8,7 +8,7 @@ function CitiesContainer () {
         <div>
             This contains the seasons list, favorite cities, and search bar!
             <CitiesList />
-            <FavoriteHolidays />
+            <Favorites />
             <Search />
         </div>
     )
