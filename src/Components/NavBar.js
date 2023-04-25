@@ -9,7 +9,7 @@ function NavBar () {
         </a>
         <ul>
             <CustomLink href= "/cities"> Cities</CustomLink>
-            <CustomLink href="/favorites>">Favorites</CustomLink>
+            <CustomLink href="/favorites">Favorites</CustomLink>
         </ul>
     </nav>
     )
