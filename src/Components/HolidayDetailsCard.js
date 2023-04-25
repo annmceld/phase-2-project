@@ -1,6 +1,6 @@
 import React from "react";
 
-function CityCard () {
+function HolidayDetailsCard () {
     return (
         <div>
             Each city with weather details!
@@ -8,4 +8,4 @@ function CityCard () {
     )
 }
 
-export default CityCard;
+export default HolidayDetailsCard;

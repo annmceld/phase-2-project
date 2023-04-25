@@ -1,6 +1,6 @@
 import React from "react";
 
-function FavoriteCities () {
+function FavoriteHolidays () {
     return (
         <div className="content">
             Favorite cities will go here!
@@ -8,4 +8,4 @@ function FavoriteCities () {
     )
 }
 
-export default FavoriteCities;
+export default FavoriteHolidays;

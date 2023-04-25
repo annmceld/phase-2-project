@@ -1,13 +1,13 @@
 import React from "react";
-import Season from "./Season";
+import City from "./City";
 
-function SeasonsList () {
+function CitiesList () {
     return (
         <div className="content">
             This contains each season!
-            <Season />
+            <City />
         </div>
     )
 }
 
-export default SeasonsList;
+export default CitiesList;

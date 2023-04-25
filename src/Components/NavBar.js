@@ -25,24 +25,24 @@ function NavBar() {
                 Home
             </NavLink>
             <NavLink
-                to="/SeasonsList"
+                to="/CitiesList"
                 exact
                 style={linkStyles}
                 activeStyle={{
                     background: "black",
                 }}
             >
-                Seasons
+                Cities
             </NavLink>
             <NavLink
-                to="/FavoriteCities"
+                to="/FavoriteHolidays"
                 exact
                 style={linkStyles}
                 activeStyle={{
                     background: "black",
                 }}
             >
-                Favorite Cities
+                Favorite Holidays
             </NavLink>
         </div>
     );
