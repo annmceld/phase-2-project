@@ -1,14 +1,17 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
-
+import CitiesContainer from "./CitiesContainer";
 function Homepage() {
 
-  const history = useHistory()
+      const history = useHistory()
+      function homePageClick() 
+      {
+      history.push("/CitiesContainer")
+      }
 
-  function homePageClick() {
-    
-    history.push("/CitiesList")
-  }
+
+
+
 
   return (
     <div>

@@ -1,7 +1,7 @@
 {
     "cities": [
         {
-        "id": "1",
+        "id": 1,
         "name": "New York",
         "holidays":[
         {
@@ -11,74 +11,74 @@
             "event": "Times Square Ball Drop, Liberty Cruise, New York Road Runners MIDNIGHT RUN, Fireworks Show at Prospect Park"
         },
         {
-            "id": "2",
+            "id": 2,
             "holidayName": "Martin Luther King Jr. Day",
             "avgHotelPrice": "0",
             "event": "Annual MLK Serve-A-Thon, Visual Art: Freedom!, The World Famous Harlem Gospel Choir, Queens Botanical Garden MLK Day Celebration"
         },
         {
-            "id": "3",
+            "id": 3,
             "holidayName": "St. Patrick's Day",
             "avgHotelPrice": "0",
             "event": "St. Patrick's Day Parade, St. Patrick's Cathedral, I'm Feelin' Lucky St. Patrick's Day Cruise"
         },
         {
-            "id": "4",
+            "id": 4,
             "holidayName": "Easter",
             "avgHotelPrice": "0",
             "event": "Easter Parade, St. Patrick's Cathedral Easter Mass, New York's Botanical Garden"
         },
         {
-            "id": "5",
+            "id": 5,
             "holidayName": "Cinco De Mayo",
             "avgHotelPrice": "0",
             "event": "Cinco De Mayo in Brooklyn Bridge Park, Cinco De Mayo Party Cruise"
         },
         {
-            "id": "6",
+            "id": 6,
             "holidayName": "Memorial Day",
             "avgHotelPrice": "0",
             "event": "New York Yankees vs San Diego Padres, Fleet Week, Brooklyn Memorial Day Parade"
         },
         {
-            "id": "7",
+            "id": 7,
             "holidayName": "Independence Day",
             "avgHotelPrice": "0",
             "event": "Fireworks Harbor Cruise, Empire State Building Celebration, Staten Island Ferry, Macy's Fourth of July Fireworks"
         },
         {
-            "id": "8",
+            "id": 8,
             "holidayName": "Labor Day",
             "avgHotelPrice": "0",
             "event": "Labor Day Parade, Honorable William Wall Cruise, Coney Island, Observation Decks"
         },
         {
-            "id": "9",
+            "id": 9,
             "holidayName": "Halloween",
             "avgHotelPrice": "0",
             "event": "The Village Halloween Parade, Catacombs Tour, Gangsters and Ghosts Tour, Tompkins Square Halloween Dog Parade"
         },
         {
-            "id": "10",
+            "id": 10,
             "holidayName": "Veterans Day",
             "avgHotelPrice": "0",
             "event": "America's Parade, Intrepid Museum, Grant's Tomb"
         },
         {
-            "id": "11",
+            "id": 11,
             "holidayName": "Thanksgiving",
             "avgHotelPrice": "0",
             "event": "Macy's Thanksgiving Day Parade, Thanksgiving Cruises"
         },
         {
-            "id": "12",
+            "id": 12,
             "holidayName": "Christmas",
             "avgHotelPrice": "0",
             "event": "Radio City Christmas Spectacular, Rockefeller Center Christmas Tree, Christmas Movies Tour, Dyker Heights Christmas Lights Tour"
         }
     ]},
 
-    {   "id": "2",
+    {   "id": 2,
         "name": "New Orleans",
         "holidays":[
             {
@@ -155,7 +155,7 @@
             }
         ]},
 
-        {   "id": "3",
+        {   "id": 3,
             "name": "Los Angeles",
             "holidays":[
                 {
@@ -232,7 +232,7 @@
                 }
             ]},
     {
-        "id": "4",
+        "id": 4,
         "name": "Miami",
         "holidays":[
             {

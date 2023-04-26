@@ -5,6 +5,8 @@ import CitiesList from "./Components/CitiesList";
 import Favorites from "./Components/Favorites";
 import { BrowserRouter } from "react-router-dom";
 import Homepage from './Components/Homepage'
+import CitiesContainer from "./Components/CitiesContainer";
+
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
           <Route exact path="/" component={Homepage} />
           <Route path="/CitiesList" component={CitiesList} />
           <Route path="/Favorites" component={Favorites} />
+          <Route path="/CitiesContainer" component={CitiesContainer} />
+          
         </Switch>
       </div>
     </BrowserRouter>
