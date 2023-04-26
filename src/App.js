@@ -6,30 +6,26 @@ import Home from "./Components/Home";
 import CitiesList from "./Components/CitiesList";
 import Favorites from "./Components/Favorites";
 import { BrowserRouter } from "react-router-dom";
-
+import Homepage from './Components/Homepage'
 
 function App() {
-  let component
-  switch (window.location.pathname) {
-    case "/":
-      component = <Home/>
-      break
-    case "/CitiesList":
-      component = <CitiesList/>
-      break
-    case "/Favorites":
-      component = <Favorites/>
-      break
-  }
   return (
-    <>
+    <BrowserRouter>
+      <Header />
       <NavBar />
       <div className="container">
-      {component}
+        <Switch>
+          <Route exact path="/" component={Homepage} />
+          <Route path="/CitiesList" component={CitiesList} />
+          <Route path="/Favorites" component={Favorites} />
+        </Switch>
       </div>
-      </>
-  )
+    </BrowserRouter>
+  );
 }
+
+export default App;
+
       {/* <div clas */}
 
 
@@ -52,4 +48,3 @@ function App() {
   //   </div>
   // );
 
-export default App;
