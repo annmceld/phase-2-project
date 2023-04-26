@@ -11,7 +11,7 @@ import Homepage from './Components/Homepage'
 function App() {
   return (
     <BrowserRouter>
-      <Header />
+      
       <NavBar />
       <div className="container">
         <Switch>
