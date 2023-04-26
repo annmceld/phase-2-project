@@ -4,10 +4,9 @@ import City from "./City";
 function CitiesList () {
     return (
         <div className="content">
-            This contains each season!
+             Choose Your City!
             <City />
         </div>
     )
 }
-
 export default CitiesList;
