@@ -154,83 +154,83 @@
                 "event": "Celebration in the Oaks, Candlelight Caroling in Jackson Square, Bonfires on the Levee, NOLA ChristmasFest"
             }
         ]},
-    {
-        "id": "3",
-        "name": "Los Angeles",
-        "holidays":[
-            {
-                "id": "1",
-                "holidayName": "New Years",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "2",
-                "holidayName": "Martin Luther King Jr. Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "3",
-                "holidayName": "St. Patrick's Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "4",
-                "holidayName": "Easter",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "5",
-                "holidayName": "Cinco De Mayo",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "6",
-                "holidayName": "Memorial Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "7",
-                "holidayName": "Independence Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "8",
-                "holidayName": "Labor Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "9",
-                "holidayName": "Halloween",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "10",
-                "holidayName": "Veterans Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "11",
-                "holidayName": "Thanksgiving",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "12",
-                "holidayName": "Christmas",
-                "avgHotelPrice": "0",
-                "event": ""
-            }
-        ]},
+
+        {   "id": "3",
+            "name": "Los Angeles",
+            "holidays":[
+                {
+                    "id": "1",
+                    "holidayName": "New Years",
+                    "avgHotelPrice": "0",
+                    "event": "The Rose Parade”, Grand Park's Annual NYELA Block Party, Fireworks Show at Long Beach Waterfront"
+                },
+                {
+                    "id": "2",
+                    "holidayName": "Martin Luther King Jr. Day",
+                    "avgHotelPrice": "0",
+                    "event": "Annual Kingdom Day Parade, King Fest, King Day at California African American Museum"
+                },
+                {
+                    "id": "3",
+                    "holidayName": "St. Patrick's Day",
+                    "avgHotelPrice": "0",
+                    "event": "Hermosa Beach's annual St. Patrick's Day Parade”, St. Penmar's Day: Festival on the Green, Kiss Me, I'm Irish! St. Patrick's Bar Crawl"
+                },
+                {
+                    "id": "4",
+                    "holidayName": "Easter",
+                    "avgHotelPrice": "0",
+                    "event": "Blessing of the Animals, Easter Eggstravaganza, Underwood Farms Springtime Easter Festival"
+                },
+                {
+                    "id": "5",
+                    "holidayName": "Cinco De Mayo",
+                    "avgHotelPrice": "0",
+                    "event": "Lucha VaVoom Cinco de Mayan, Hecho en LA: Taco Madness at LA Plaza, Michelada Music Festival in Lincoln Park"
+                },
+                {
+                    "id": "6",
+                    "holidayName": "Memorial Day",
+                    "avgHotelPrice": "0",
+                    "event": "LA County Fair, Fiesta Hermosa"
+                },
+                {
+                    "id": "7",
+                    "holidayName": "Independence Day",
+                    "avgHotelPrice": "0",
+                    "event": "America Fest at the Rose Bowl, Marina Del Rey Fireworks Show, The Hollywood Bowl Fireworks Spectacular"
+                },
+                {
+                    "id": "8",
+                    "holidayName": "Labor Day",
+                    "avgHotelPrice": "0",
+                    "event": "Aloha Beach Festival, Labor Day Weekend Downtown LA Club Crawl, USC Homeopener"
+                },
+                {
+                    "id": "9",
+                    "holidayName": "Halloween",
+                    "avgHotelPrice": "0",
+                    "event": "Universal Studios' Annual Halloween festivities, Movies at Hollywood Forever Cemetery, Haunted Griffith Park hayride"
+                },
+                {
+                    "id": "10",
+                    "holidayName": "Veterans Day",
+                    "avgHotelPrice": "0",
+                    "event": "VETERANS DAY CELEBRATION - BATTLESHIP IOWA, The San Fernando Valley Veterans Day Carnival, Forest Lawn Annual Veterans Day Celebration"
+                },
+                {
+                    "id": "11",
+                    "holidayName": "Thanksgiving",
+                    "avgHotelPrice": "0",
+                    "event": "Turkey Trot Los Angeles, Holiday Ice Rink Pershing Square, Los Angeles Auto Show"
+                },
+                {
+                    "id": "12",
+                    "holidayName": "Christmas",
+                    "avgHotelPrice": "0",
+                    "event": "Hollywood Christmas Parade, Festival of Lights at the Mission Inn, LA Zoo Lights, Disneyland Christmas Fantasy, Christmas Tree Lighting, LA Arboretum: Lightscape, Marina del Rey Holiday Boat Parade"
+                }
+            ]},
     {
         "id": "4",
         "name": "Miami",
