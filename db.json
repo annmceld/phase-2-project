@@ -8,73 +8,73 @@
             "id": "1",
             "holidayName": "New Years",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Times Square Ball Drop, Liberty Cruise, New York Road Runners MIDNIGHT RUN, Fireworks Show at Prospect Park"
         },
         {
             "id": "2",
             "holidayName": "Martin Luther King Jr. Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Annual MLK Serve-A-Thon, Visual Art: Freedom!, The World Famous Harlem Gospel Choir, Queens Botanical Garden MLK Day Celebration"
         },
         {
             "id": "3",
             "holidayName": "St. Patrick's Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "St. Patrick's Day Parade, St. Patrick's Cathedral, I'm Feelin' Lucky St. Patrick's Day Cruise"
         },
         {
             "id": "4",
             "holidayName": "Easter",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Easter Parade, St. Patrick's Cathedral Easter Mass, New York's Botanical Garden"
         },
         {
             "id": "5",
             "holidayName": "Cinco De Mayo",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Cinco De Mayo in Brooklyn Bridge Park, Cinco De Mayo Party Cruise"
         },
         {
             "id": "6",
             "holidayName": "Memorial Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "New York Yankees vs San Diego Padres, Fleet Week, Brooklyn Memorial Day Parade"
         },
         {
             "id": "7",
             "holidayName": "Independence Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Fireworks Harbor Cruise, Empire State Building Celebration, Staten Island Ferry, Macy's Fourth of July Fireworks"
         },
         {
             "id": "8",
             "holidayName": "Labor Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Labor Day Parade, Honorable William Wall Cruise, Coney Island, Observation Decks"
         },
         {
             "id": "9",
             "holidayName": "Halloween",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "The Village Halloween Parade, Catacombs Tour, Gangsters and Ghosts Tour, Tompkins Square Halloween Dog Parade"
         },
         {
             "id": "10",
             "holidayName": "Veterans Day",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "America's Parade, Intrepid Museum, Grant's Tomb"
         },
         {
             "id": "11",
             "holidayName": "Thanksgiving",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Macy's Thanksgiving Day Parade, Thanksgiving Cruises"
         },
         {
             "id": "12",
             "holidayName": "Christmas",
             "avgHotelPrice": "0",
-            "event": ""
+            "event": "Radio City Christmas Spectacular, Rockefeller Center Christmas Tree, Christmas Movies Tour, Dyker Heights Christmas Lights Tour"
         }
     ]},
 
@@ -85,73 +85,73 @@
                 "id": "1",
                 "holidayName": "New Years",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Allstate Sugar Bowl New Year's Eve Parade, Celebration on Steamboat Natchez, Big Night New Orleans NYE"
             },
             {
                 "id": "2",
                 "holidayName": "Martin Luther King Jr. Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "City Park's MLK Day of Service, Ogden Museum of Southern Art MLK Day Celebration"
             },
             {
                 "id": "3",
                 "holidayName": "St. Patrick's Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Irish Channel St. Patrick's Day Parade, Metairie Road St. Patrick's Day Parade, Irish Channel St. Patrick's Club Block Party"
             },
             {
                 "id": "4",
                 "holidayName": "Easter",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Annual Easter Jam, Crescent City Classic, French Quarter Easter Parade"
             },
             {
                 "id": "5",
                 "holidayName": "Cinco De Mayo",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "MARGARITA MAYHEM Cinco de Mayo Celebration, Cinco de Mayo Festival"
             },
             {
                 "id": "6",
                 "holidayName": "Memorial Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "National World War II Museum, Chalmette Battlefield, bike down Lafitte Greenway"
             },
             {
                 "id": "7",
                 "holidayName": "Independence Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Go 4th on the River, Essence Festival, City Park, Audubon Park"
             },
             {
                 "id": "8",
                 "holidayName": "Labor Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Southern Decadence Festival, Audubon Zoo, New Orleans City Tour"
             },
             {
                 "id": "9",
                 "holidayName": "Halloween",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Krewe of Boo Parade, Long Vue Fall Fest, Boo at the Zoo, Halloween New Orleans"
             },
             {
                 "id": "10",
                 "holidayName": "Veterans Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Veterans Day Run, New Orleans Veterans Day Parade"
             },
             {
                 "id": "11",
                 "holidayName": "Thanksgiving",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Horse Races at the Fair Grounds, Annual Turkey Day Race"
             },
             {
                 "id": "12",
                 "holidayName": "Christmas",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Celebration in the Oaks, Candlelight Caroling in Jackson Square, Bonfires on the Levee, NOLA ChristmasFest"
             }
         ]},
     {
@@ -239,150 +239,73 @@
                 "id": "1",
                 "holidayName": "New Years",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Dreamland Miami: New Year's Festival, New Year's Eve at Bayfront Park, Fairchild Botanical Garden's NightGarden "
             },
             {
                 "id": "2",
                 "holidayName": "Martin Luther King Jr. Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Art Deco Weekend, The Original Miami Beach Antique Show, Friends of the Underline Martin Luther King Weekend Bike Ride"
             },
             {
                 "id": "3",
                 "holidayName": "St. Patrick's Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Ft. Lauderdale Shamrock Run 4 Miler, Lady Luck Adults Only Cruise "
             },
             {
                 "id": "4",
                 "holidayName": "Easter",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Egg-Venture At Zoo Miami, Easter At Tinez Farms, Glow In The Dark Easter Egg Hunt "
             },
             {
                 "id": "5",
                 "holidayName": "Cinco De Mayo",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "5th Annual Wynwood Cinco de Mayo Bar Crawls, Sombreros on the River!, AIA Miami Cinco de Mayo Golf Tournament  "
             },
             {
                 "id": "6",
                 "holidayName": "Memorial Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": " Memorial Day Parade & Ceremony in Davie, Hyundai Air and Sea Show, Vegandale Miami Festival,   "
             },
             {
                 "id": "7",
                 "holidayName": "Independence Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "City of South Miami's Fourth Of July Celebration, 4th Annual Mother's Day Cruise, 2023 Miami Race Weekend"
             },
             {
                 "id": "8",
                 "holidayName": "Labor Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Urban Film Festival, BleauLive Maxim Miami Labor Day Weekend Pool Party, Schnebly Redland's Winery Labor Day Weekend Celebration"
             },
             {
                 "id": "9",
                 "holidayName": "Halloween",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Pumpkin Patch at Pinto's Farm, Spooky Science Monster Mash At The Frost Museum, Kiddo-Ween Safe Trick or Treat at Cityplace Doral"
             },
             {
                 "id": "10",
                 "holidayName": "Veterans Day",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Miami Card & Memorabilia Show,  Red Velvet Burlesque Show Miami, North Miami Greek Festival"
             },
             {
                 "id": "11",
                 "holidayName": "Thanksgiving",
                 "avgHotelPrice": "0",
-                "event": ""
+                "event": "Isabelle's Grill Room & Garden,  Winternational Thanksgiving Day Parade"
             },
             {
                 "id": "12",
                 "holidayName": "Christmas",
                 "avgHotelPrice": "0",
-                "event": ""
-            }
-        ]},
-    {
-        "id": "5",
-        "name": "Chicago",
-        "holidays":[
-            {
-                "id": "1",
-                "holidayName": "New Years",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "2",
-                "holidayName": "Martin Luther King Jr. Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "3",
-                "holidayName": "St. Patrick's Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "4",
-                "holidayName": "Easter",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "5",
-                "holidayName": "Cinco De Mayo",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "6",
-                "holidayName": "Memorial Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "7",
-                "holidayName": "Independence Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "8",
-                "holidayName": "Labor Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "9",
-                "holidayName": "Halloween",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "10",
-                "holidayName": "Veterans Day",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "11",
-                "holidayName": "Thanksgiving",
-                "avgHotelPrice": "0",
-                "event": ""
-            },
-            {
-                "id": "12",
-                "holidayName": "Christmas",
-                "avgHotelPrice": "0",
-                "event": ""
+                "event": "Miami City Ballet's The Nutcracker at the Adrienne Arsht Performing Arts Center, Holiday Evening Stroll at Deering Estate,  Holiday Historic Décor Tour at Deering Estate"
             }
         ]}
     ]
