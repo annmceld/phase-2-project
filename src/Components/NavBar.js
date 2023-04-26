@@ -8,7 +8,6 @@ function NavBar () {
         FunFinder 
         </a>
         <ul>
-            <CustomLink href= "/cities"> Cities</CustomLink>
             <CustomLink href="/favorites">Favorites</CustomLink>
         </ul>
     </nav>

@@ -2,8 +2,10 @@ import React from "react";
 
 function HolidayDetailsCard () {
     return (
-        <div>
-            Each city with weather details!
+        <div className="ui eight wide column">
+            <div className="card">
+                This is a holiday card.
+            </div>
         </div>
     )
 }
