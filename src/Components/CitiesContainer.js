@@ -9,9 +9,11 @@ function CitiesContainer () {
 
     const baseUrl = 'http://localhost:3000/'
     const citiesUrl =  baseUrl + 'cities/'
+    const favoritesUrl = baseUrl + 'favorites/'
 
     const [cities, setCities] = useState([])
     const [selectedCity, setSelectedCity] = useState(null)
+    const [isFavorited, setIsFavorited] = useState([])
 
     const cityClick = ( city ) => {
         
@@ -28,12 +30,30 @@ function CitiesContainer () {
 
   useEffect(cityFetch, []) 
 
+  function addHolidayToFavorites(holiday) {
+
+    const postRequest = {
+      method: 'POST',
+      headers: {
+        'content-type': 'application/json',
+        'accepts': 'application/json'
+      },
+      body: JSON.stringify(holiday)
+    }
+
+    fetch(favoritesUrl, postRequest)
+    .then(r => r.json())
+    .then(holidayData => 
+    setIsFavorited([...isFavorited, holidayData]))
+  }
+
 
 return (
     <div>
       <h2>Cities Container</h2>
       <CitiesList cities = {cities} cityClick = {cityClick} />
-      {selectedCity ? <HolidayDetailsCard selectedCity = {selectedCity} /> : null}
+      {selectedCity ? <HolidayDetailsCard selectedCity = {selectedCity} addHolidayToFavorites={addHolidayToFavorites}/> : null}
+      <Favorites isFavorited={isFavorited}/>
     </div>
   );
 
