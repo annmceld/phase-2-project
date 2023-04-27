@@ -1,8 +1,14 @@
-import React from "react";
+import React from 'react';
+import { useLocation } from 'react-router-dom';
+import NavBar from './NavBar';
 
-function Favorites ({isFavorited}) {
 
-    console.log(isFavorited)
+function Favorites() {
+
+  const location = useLocation();
+  const isFavorited = location.state?.isFavorited;
+//   console.log(isFavorited)
+
 
     const renderFavoriteHolidays = isFavorited.map(favorite =>
         <div className="card" key={favorite.id}>
@@ -12,8 +18,11 @@ function Favorites ({isFavorited}) {
     </div>
         )
 
-    return (
+
+
+return (
         <div className="content">
+            <NavBar/>
             <h2>My Favorited Holidays</h2>
             {renderFavoriteHolidays}
         </div>

@@ -6,20 +6,21 @@ import Favorites from "./Components/Favorites";
 import { BrowserRouter } from "react-router-dom";
 import Homepage from './Components/Homepage'
 import CitiesContainer from "./Components/CitiesContainer";
+import HolidayDetailsCard from "./Components/HolidayDetailsCard";
 
 
 function App() {
   return (
     <BrowserRouter>
       
-      <NavBar />
+      
       <div className="container">
         <Switch>
           <Route exact path="/" component={Homepage} />
           <Route path="/CitiesList" component={CitiesList} />
           <Route path="/Favorites" component={Favorites} />
           <Route path="/CitiesContainer" component={CitiesContainer} />
-          
+          <Route path="/HolidayDetailsCard" component={HolidayDetailsCard} />
         </Switch>
       </div>
     </BrowserRouter>
