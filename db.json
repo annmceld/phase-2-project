@@ -3,308 +3,312 @@
         {
         "id": 1,
         "name": "New York",
+        "cityImage": "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=300",
         "holidays":[
         {
-            "id": "1",
+            "id": 1,
             "holidayName": "New Years",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/399610/pexels-photo-399610.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "Times Square Ball Drop, Liberty Cruise, New York Road Runners MIDNIGHT RUN, Fireworks Show at Prospect Park"
         },
         {
             "id": 2,
             "holidayName": "Martin Luther King Jr. Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/13700158/pexels-photo-13700158.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "Annual MLK Serve-A-Thon, Visual Art: Freedom!, The World Famous Harlem Gospel Choir, Queens Botanical Garden MLK Day Celebration"
         },
         {
             "id": 3,
             "holidayName": "St. Patrick's Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/7080462/pexels-photo-7080462.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "St. Patrick's Day Parade, St. Patrick's Cathedral, I'm Feelin' Lucky St. Patrick's Day Cruise"
         },
         {
             "id": 4,
             "holidayName": "Easter",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/2072163/pexels-photo-2072163.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "Easter Parade, St. Patrick's Cathedral Easter Mass, New York's Botanical Garden"
         },
         {
             "id": 5,
             "holidayName": "Cinco De Mayo",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/7772200/pexels-photo-7772200.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "Cinco De Mayo in Brooklyn Bridge Park, Cinco De Mayo Party Cruise"
         },
         {
             "id": 6,
             "holidayName": "Memorial Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/1550342/pexels-photo-1550342.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "New York Yankees vs San Diego Padres, Fleet Week, Brooklyn Memorial Day Parade"
         },
         {
             "id": 7,
             "holidayName": "Independence Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/3393477/pexels-photo-3393477.jpeg?auto=compress&cs=tinysrgb&w=300",
             "event": "Fireworks Harbor Cruise, Empire State Building Celebration, Staten Island Ferry, Macy's Fourth of July Fireworks"
         },
         {
             "id": 8,
             "holidayName": "Labor Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg.webp",
             "event": "Labor Day Parade, Honorable William Wall Cruise, Coney Island, Observation Decks"
         },
         {
             "id": 9,
             "holidayName": "Halloween",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://hips.hearstapps.com/hmg-prod/images/halloween-trivia-jack-o-lanterns-1531163183.jpg",
             "event": "The Village Halloween Parade, Catacombs Tour, Gangsters and Ghosts Tour, Tompkins Square Halloween Dog Parade"
         },
         {
             "id": 10,
             "holidayName": "Veterans Day",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDorW170003SyLgyZ8Vlh4_aA_LKJCm4Hgg&usqp=CAU",
             "event": "America's Parade, Intrepid Museum, Grant's Tomb"
         },
         {
             "id": 11,
             "holidayName": "Thanksgiving",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/669729/pexels-photo-669729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "event": "Macy's Thanksgiving Day Parade, Thanksgiving Cruises"
         },
         {
             "id": 12,
             "holidayName": "Christmas",
-            "avgHotelPrice": "0",
+            "holidayImage": "https://images.pexels.com/photos/14836670/pexels-photo-14836670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "event": "Radio City Christmas Spectacular, Rockefeller Center Christmas Tree, Christmas Movies Tour, Dyker Heights Christmas Lights Tour"
         }
     ]},
 
     {   "id": 2,
         "name": "New Orleans",
+        "cityImage": "https://images.pexels.com/photos/6379409/pexels-photo-6379409.jpeg?auto=compress&cs=tinysrgb&w=300",
         "holidays":[
             {
-                "id": "1",
+                "id": 1,
                 "holidayName": "New Years",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/399610/pexels-photo-399610.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Allstate Sugar Bowl New Year's Eve Parade, Celebration on Steamboat Natchez, Big Night New Orleans NYE"
             },
             {
-                "id": "2",
+                "id": 2,
                 "holidayName": "Martin Luther King Jr. Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/13700158/pexels-photo-13700158.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "City Park's MLK Day of Service, Ogden Museum of Southern Art MLK Day Celebration"
             },
             {
-                "id": "3",
+                "id": 3,
                 "holidayName": "St. Patrick's Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/7080462/pexels-photo-7080462.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Irish Channel St. Patrick's Day Parade, Metairie Road St. Patrick's Day Parade, Irish Channel St. Patrick's Club Block Party"
             },
             {
-                "id": "4",
+                "id": 4,
                 "holidayName": "Easter",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/2072163/pexels-photo-2072163.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Annual Easter Jam, Crescent City Classic, French Quarter Easter Parade"
             },
             {
-                "id": "5",
+                "id": 5,
                 "holidayName": "Cinco De Mayo",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/7772200/pexels-photo-7772200.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "MARGARITA MAYHEM Cinco de Mayo Celebration, Cinco de Mayo Festival"
             },
             {
-                "id": "6",
+                "id": 6,
                 "holidayName": "Memorial Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/1550342/pexels-photo-1550342.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "National World War II Museum, Chalmette Battlefield, bike down Lafitte Greenway"
             },
             {
-                "id": "7",
+                "id": 7,
                 "holidayName": "Independence Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/3393477/pexels-photo-3393477.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Go 4th on the River, Essence Festival, City Park, Audubon Park"
             },
             {
-                "id": "8",
+                "id": 8,
                 "holidayName": "Labor Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg.webp",
                 "event": "Southern Decadence Festival, Audubon Zoo, New Orleans City Tour"
             },
             {
-                "id": "9",
+                "id": 9,
                 "holidayName": "Halloween",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://hips.hearstapps.com/hmg-prod/images/halloween-trivia-jack-o-lanterns-1531163183.jpg",
                 "event": "Krewe of Boo Parade, Long Vue Fall Fest, Boo at the Zoo, Halloween New Orleans"
             },
             {
-                "id": "10",
+                "id": 10,
                 "holidayName": "Veterans Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDorW170003SyLgyZ8Vlh4_aA_LKJCm4Hgg&usqp=CAU",
                 "event": "Veterans Day Run, New Orleans Veterans Day Parade"
             },
             {
-                "id": "11",
+                "id": 11,
                 "holidayName": "Thanksgiving",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/669729/pexels-photo-669729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "event": "Horse Races at the Fair Grounds, Annual Turkey Day Race"
             },
             {
-                "id": "12",
+                "id": 12,
                 "holidayName": "Christmas",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/14836670/pexels-photo-14836670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "event": "Celebration in the Oaks, Candlelight Caroling in Jackson Square, Bonfires on the Levee, NOLA ChristmasFest"
             }
         ]},
 
         {   "id": 3,
             "name": "Los Angeles",
+            "cityImage": "https://images.pexels.com/photos/5402906/pexels-photo-5402906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "holidays":[
                 {
-                    "id": "1",
+                    "id": 1,
                     "holidayName": "New Years",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/399610/pexels-photo-399610.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "The Rose Parade”, Grand Park's Annual NYELA Block Party, Fireworks Show at Long Beach Waterfront"
                 },
                 {
-                    "id": "2",
+                    "id": 2,
                     "holidayName": "Martin Luther King Jr. Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/13700158/pexels-photo-13700158.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "Annual Kingdom Day Parade, King Fest, King Day at California African American Museum"
                 },
                 {
-                    "id": "3",
+                    "id": 3,
                     "holidayName": "St. Patrick's Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/7080462/pexels-photo-7080462.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "Hermosa Beach's annual St. Patrick's Day Parade”, St. Penmar's Day: Festival on the Green, Kiss Me, I'm Irish! St. Patrick's Bar Crawl"
                 },
                 {
-                    "id": "4",
+                    "id": 4,
                     "holidayName": "Easter",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/2072163/pexels-photo-2072163.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "Blessing of the Animals, Easter Eggstravaganza, Underwood Farms Springtime Easter Festival"
                 },
                 {
-                    "id": "5",
+                    "id": 5,
                     "holidayName": "Cinco De Mayo",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/7772200/pexels-photo-7772200.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "Lucha VaVoom Cinco de Mayan, Hecho en LA: Taco Madness at LA Plaza, Michelada Music Festival in Lincoln Park"
                 },
                 {
-                    "id": "6",
+                    "id": 6,
                     "holidayName": "Memorial Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/1550342/pexels-photo-1550342.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "LA County Fair, Fiesta Hermosa"
                 },
                 {
-                    "id": "7",
+                    "id": 7,
                     "holidayName": "Independence Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/3393477/pexels-photo-3393477.jpeg?auto=compress&cs=tinysrgb&w=300",
                     "event": "America Fest at the Rose Bowl, Marina Del Rey Fireworks Show, The Hollywood Bowl Fireworks Spectacular"
                 },
                 {
-                    "id": "8",
+                    "id": 8,
                     "holidayName": "Labor Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg.webp",
                     "event": "Aloha Beach Festival, Labor Day Weekend Downtown LA Club Crawl, USC Homeopener"
                 },
                 {
-                    "id": "9",
+                    "id": 9,
                     "holidayName": "Halloween",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://hips.hearstapps.com/hmg-prod/images/halloween-trivia-jack-o-lanterns-1531163183.jpg",
                     "event": "Universal Studios' Annual Halloween festivities, Movies at Hollywood Forever Cemetery, Haunted Griffith Park hayride"
                 },
                 {
-                    "id": "10",
+                    "id": 10,
                     "holidayName": "Veterans Day",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDorW170003SyLgyZ8Vlh4_aA_LKJCm4Hgg&usqp=CAU",
                     "event": "VETERANS DAY CELEBRATION - BATTLESHIP IOWA, The San Fernando Valley Veterans Day Carnival, Forest Lawn Annual Veterans Day Celebration"
                 },
                 {
-                    "id": "11",
+                    "id": 11,
                     "holidayName": "Thanksgiving",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/669729/pexels-photo-669729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                     "event": "Turkey Trot Los Angeles, Holiday Ice Rink Pershing Square, Los Angeles Auto Show"
                 },
                 {
-                    "id": "12",
+                    "id": 12,
                     "holidayName": "Christmas",
-                    "avgHotelPrice": "0",
+                    "holidayImage": "https://images.pexels.com/photos/14836670/pexels-photo-14836670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                     "event": "Hollywood Christmas Parade, Festival of Lights at the Mission Inn, LA Zoo Lights, Disneyland Christmas Fantasy, Christmas Tree Lighting, LA Arboretum: Lightscape, Marina del Rey Holiday Boat Parade"
                 }
             ]},
     {
         "id": 4,
         "name": "Miami",
+        "cityImage":"https://images.pexels.com/photos/4366062/pexels-photo-4366062.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "holidays":[
             {
-                "id": "1",
+                "id": 1,
                 "holidayName": "New Years",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/399610/pexels-photo-399610.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Dreamland Miami: New Year's Festival, New Year's Eve at Bayfront Park, Fairchild Botanical Garden's NightGarden "
             },
             {
-                "id": "2",
+                "id": 2,
                 "holidayName": "Martin Luther King Jr. Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/13700158/pexels-photo-13700158.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Art Deco Weekend, The Original Miami Beach Antique Show, Friends of the Underline Martin Luther King Weekend Bike Ride"
             },
             {
-                "id": "3",
+                "id": 3,
                 "holidayName": "St. Patrick's Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/7080462/pexels-photo-7080462.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Ft. Lauderdale Shamrock Run 4 Miler, Lady Luck Adults Only Cruise "
             },
             {
-                "id": "4",
+                "id": 4,
                 "holidayName": "Easter",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/2072163/pexels-photo-2072163.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "Egg-Venture At Zoo Miami, Easter At Tinez Farms, Glow In The Dark Easter Egg Hunt "
             },
             {
-                "id": "5",
+                "id": 5,
                 "holidayName": "Cinco De Mayo",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/7772200/pexels-photo-7772200.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "5th Annual Wynwood Cinco de Mayo Bar Crawls, Sombreros on the River!, AIA Miami Cinco de Mayo Golf Tournament  "
             },
             {
-                "id": "6",
+                "id": 6,
                 "holidayName": "Memorial Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/1550342/pexels-photo-1550342.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": " Memorial Day Parade & Ceremony in Davie, Hyundai Air and Sea Show, Vegandale Miami Festival,   "
             },
             {
-                "id": "7",
+                "id": 7,
                 "holidayName": "Independence Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/3393477/pexels-photo-3393477.jpeg?auto=compress&cs=tinysrgb&w=300",
                 "event": "City of South Miami's Fourth Of July Celebration, 4th Annual Mother's Day Cruise, 2023 Miami Race Weekend"
             },
             {
-                "id": "8",
+                "id": 8,
                 "holidayName": "Labor Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://nationaltoday.com/wp-content/uploads/2019/09/labor-day.jpg.webp",
                 "event": "Urban Film Festival, BleauLive Maxim Miami Labor Day Weekend Pool Party, Schnebly Redland's Winery Labor Day Weekend Celebration"
             },
             {
-                "id": "9",
+                "id": 9,
                 "holidayName": "Halloween",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://hips.hearstapps.com/hmg-prod/images/halloween-trivia-jack-o-lanterns-1531163183.jpg",
                 "event": "Pumpkin Patch at Pinto's Farm, Spooky Science Monster Mash At The Frost Museum, Kiddo-Ween Safe Trick or Treat at Cityplace Doral"
             },
             {
-                "id": "10",
+                "id": 10,
                 "holidayName": "Veterans Day",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDorW170003SyLgyZ8Vlh4_aA_LKJCm4Hgg&usqp=CAU",
                 "event": "Miami Card & Memorabilia Show,  Red Velvet Burlesque Show Miami, North Miami Greek Festival"
             },
             {
-                "id": "11",
+                "id": 11,
                 "holidayName": "Thanksgiving",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/669729/pexels-photo-669729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "event": "Isabelle's Grill Room & Garden,  Winternational Thanksgiving Day Parade"
             },
             {
-                "id": "12",
+                "id": 12,
                 "holidayName": "Christmas",
-                "avgHotelPrice": "0",
+                "holidayImage": "https://images.pexels.com/photos/14836670/pexels-photo-14836670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
                 "event": "Miami City Ballet's The Nutcracker at the Adrienne Arsht Performing Arts Center, Holiday Evening Stroll at Deering Estate,  Holiday Historic Décor Tour at Deering Estate"
             }
         ]}

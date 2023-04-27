@@ -5,20 +5,18 @@ import Search from "./Search";
 import { useHistory } from "react-router-dom";
 import HolidayDetailsCard from "./HolidayDetailsCard";
 
-
-
 function CitiesContainer () {
-    const baseUrl = 'http://localhost:3003/'
+
+    const baseUrl = 'http://localhost:3000/'
     const citiesUrl =  baseUrl + 'cities/'
 
     const [cities, setCities] = useState([])
     const [selectedCity, setSelectedCity] = useState(null)
 
-
     const cityClick = ( city ) => {
         
         setSelectedCity(city)
-        console.log(selectedCity)
+        // console.log(selectedCity)
     }
   
     const cityFetch = ( ) => { 
@@ -28,8 +26,8 @@ function CitiesContainer () {
             .then(setCities)
     }
 
-  useEffect(cityFetch, [])
-  
+  useEffect(cityFetch, []) 
+
 
 return (
     <div>

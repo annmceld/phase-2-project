@@ -65,3 +65,15 @@ padding: 0 1rem;
 img {
     border-radius: 5px 5px 0 0;
 }
+
+.city-image {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+}
+
+.holiday-image {
+    justify-self: center;
+    height: 12rem;
+    width: auto;
+}
