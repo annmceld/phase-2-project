@@ -1,31 +1,25 @@
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import { useHistory } from "react-router-dom";
 
 
 
 
-function CitiesList ({cities, cityClick}) { 
-    
+function CitiesList({ cities, cityClick }) {
 
-    
-    const cityRender = cities.map(city => 
+    const cityRender = cities.map(city =>
 
-        <div 
-        key={city.id}
-        id={city.id} className="card" onClick={()=>cityClick(city)}>
-            <img alt={city.name} />
+        <div
+            key={city.id}
+            id={city.id} className="card" onClick={() => cityClick(city)}>
+            <img src={city.cityImage}  alt={city.name} className="city-image"/>  
             <h4><b>{city.name}</b></h4>
-        </div> 
+        </div>
     )
-        
-   
-   
-   
-   
-   return (
+
+    return (
         <div className="Cities-btn">
-        {cityRender}
-    </div>
+            {cityRender}
+        </div>
     )
-    }
+}
 export default CitiesList;

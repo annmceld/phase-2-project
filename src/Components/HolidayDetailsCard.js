@@ -1,15 +1,17 @@
 import React from "react";
 
-function HolidayDetailsCard ({selectedCity}) {
+function HolidayDetailsCard({ selectedCity }) {
 
-  const  renderHolidays = selectedCity.holidays.map( holiday => 
-  
-  
-            <div className="card">
-                <h3>{holiday.holidayName}</h3>
-                <p>{holiday.event}</p>
-            </div>  )
- 
+    const renderHolidays = selectedCity.holidays.map(holiday =>
+
+
+        <div className="card" key={holiday.id}>
+            <h3>{holiday.holidayName}</h3>
+            <img src={holiday.holidayImage} alt={holiday.holidayName} className="holiday-image" />
+            <p>{holiday.event}</p>
+            <button>Add To Favorites</button>
+        </div>)
+
 
 
     return (
