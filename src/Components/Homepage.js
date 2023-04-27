@@ -1,6 +1,8 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import CitiesContainer from "./CitiesContainer";
+
+
 function Homepage() {
 
       const history = useHistory()
@@ -8,10 +10,6 @@ function Homepage() {
       {
       history.push("/CitiesContainer")
       }
-
-
-
-
 
   return (
     <div>

@@ -1,6 +1,6 @@
 import React from "react";
 
-function HolidayDetailsCard({ selectedCity }) {
+function HolidayDetailsCard({ selectedCity, addHolidayToFavorites }) {
 
     const renderHolidays = selectedCity.holidays.map(holiday =>
 
@@ -9,7 +9,7 @@ function HolidayDetailsCard({ selectedCity }) {
             <h3>{holiday.holidayName}</h3>
             <img src={holiday.holidayImage} alt={holiday.holidayName} className="holiday-image" />
             <p>{holiday.event}</p>
-            <button>Add To Favorites</button>
+            <button onClick={() => addHolidayToFavorites(holiday)}>Add To Favorites</button>
         </div>)
 
 
