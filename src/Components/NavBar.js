@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 import { Route } from 'react-router-dom';
 import Favorites from "./Favorites";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
-function NavBar ({isFavorited}) {
+function NavBar ({isFavorited, favoritesList}) {
     return (
       <nav className ="nav">
         <a href ="/" className="site-title"> 
@@ -14,7 +14,7 @@ function NavBar ({isFavorited}) {
           <Link to=
     {{
              pathname: "/Favorites",
-             state: { isFavorited: isFavorited }
+             state: { favoritesList : favoritesList }
     }}>
                     <button>Favorites</button>
           </Link>
