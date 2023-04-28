@@ -17,7 +17,7 @@ function CitiesList({ cities, cityClick }) {
     )
 
     return (
-        <div className="Cities-btn">
+        <div className="Cities-btn cards">
             {cityRender}
         </div>
     )

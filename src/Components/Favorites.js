@@ -14,11 +14,9 @@ function Favorites() {
         <div className="card" key={favorite.id}>
         <h3>{favorite.holidayName}</h3>
         <img src={favorite.holidayImage} alt={favorite.holidayName} className="holiday-image" />
-        <p>{favorite.event}</p>
+        <p><b>Events: </b>{favorite.event}</p>
     </div>
         )
-
-
 
 return (
         <div className="content">

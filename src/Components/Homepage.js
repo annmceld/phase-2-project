@@ -12,11 +12,13 @@ function Homepage() {
       }
 
   return (
-    <div>
-      <h1>FunFinder</h1>
-      {
-        <button onClick={() => homePageClick()}>Let's Get Started</button>
-      }
+    <div className="Section_top">
+      <div className="content">
+        <h1>HolidayEventFinder</h1>
+        {
+        <button className="buttonClass" onClick={() => homePageClick()}>Let's Get Started!</button>
+        }
+      </div>
     </div>
   );
 }
