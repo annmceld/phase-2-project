@@ -1,29 +1,38 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-
-function NavBar () {
+import { Route } from 'react-router-dom';
+import Favorites from "./Favorites";
+import { Link } from "react-router-dom/cjs/react-router-dom.min";
+function NavBar ({isFavorited}) {
     return (
-    <nav className ="nav">
+      <nav className ="nav">
         <a href ="/" className="site-title"> 
-        FunFinder 
+          FunFinder 
         </a>
         <ul>
-            <CustomLink href="/favorites">Favorites</CustomLink>
-        </ul>
-    </nav>
-    )
-}
+          <li>
+          <Link to=
+    {{
+             pathname: "/Favorites",
+             state: { isFavorited: isFavorited }
+    }}>
+                    <button>Favorites</button>
+          </Link>
+          </li>
+          </ul>
+          </nav>
+    )}
+  
+// function CustomLink ({href, children, ... props}){
+//     const path = window.location.pathname
+//     return (
+//         <li>
+//             <a href= {href} >{children}</a>
+//         </li>
+//     )
 
-function CustomLink ({href, children, ... props}){
-    const path = window.location.pathname
-    return (
-        <li>
-            <a href= {href} >{children}</a>
-        </li>
-    )
 
-
-}
+// }
 
 
 
