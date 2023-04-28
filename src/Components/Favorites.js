@@ -6,7 +6,7 @@ import NavBar from './NavBar';
 function Favorites() {
 
   const location = useLocation();
-  const isFavorited = location.state?.isFavorited;
+  const isFavorited = location.state?.favoritesList;
 //   console.log(isFavorited)
 
 
