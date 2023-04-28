@@ -11,8 +11,8 @@ function CitiesList({ cities, cityClick }) {
         <div
             key={city.id}
             id={city.id} className="card" onClick={() => cityClick(city)}>
-            <img src={city.cityImage}  alt={city.name} className="city-image"/>  
             <h4><b>{city.name}</b></h4>
+            <img src={city.cityImage}  alt={city.name} className="city-image"/>  
         </div>
     )
 
