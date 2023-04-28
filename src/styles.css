@@ -53,11 +53,25 @@ padding: 0 1rem;
     background-color: #777;
 }
 
+.cards {
+
+    display: grid;
+    
+    grid-template-columns: repeat(4, 1fr);
+    
+    grid-auto-rows: auto;
+    
+    grid-gap: 1rem;
+    
+    }
+
 .card {
     /* Add shadows to create the "card" effect */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 5px;
+    background-color: #333;
+    color: white;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -76,10 +90,40 @@ img {
     width: auto;
 }
 
+.holiday-cards {
+
+    display: grid;
+    
+    grid-template-columns: repeat(3, 1fr);
+    
+    grid-auto-rows: auto;
+    
+    grid-gap: 1rem;
+    
+    }
+
 .holiday-image {
     justify-self: center;
     height: 12rem;
     width: auto;
+}
+
+.buttonClass {
+    font-size:18px;
+    font-family:Verdana;
+    width:140px;
+    height:50px;
+    border-width:1px;
+    color:rgba(255, 255, 255, 1);
+    border-color:rgba(255, 255, 255, 1);
+    font-weight:bold;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+    border-bottom-left-radius:15px;
+    border-bottom-right-radius:15px;
+    box-shadow: 3px 4px 0px 0px #899599;
+    text-shadow: 0px 1px 0px rgba(155, 155, 155, 1);
+    background-color:transparent;
 }
 
 .Section_top{

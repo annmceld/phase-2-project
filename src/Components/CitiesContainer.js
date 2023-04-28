@@ -65,7 +65,7 @@ return (
       <NavBar isFavorited =  {isFavorited}/>
 
 
-      <h2>Cities Container</h2>
+      <h2>Select A Destination:</h2>
       <CitiesList cities = {cities} cityClick = {cityClick} />
   
     </div>

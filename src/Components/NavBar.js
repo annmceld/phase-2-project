@@ -7,7 +7,7 @@ function NavBar ({isFavorited, favoritesList}) {
     return (
       <nav className ="nav">
         <a href ="/" className="site-title"> 
-          FunFinder 
+          HolidayEventFinder 
         </a>
         <ul>
           <li>
@@ -16,7 +16,7 @@ function NavBar ({isFavorited, favoritesList}) {
              pathname: "/Favorites",
              state: { favoritesList : favoritesList }
     }}>
-                    <button>Favorites</button>
+                    <button className="buttonClass" >Favorites</button>
           </Link>
           </li>
           </ul>
